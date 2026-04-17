@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Full metro-level restaurant coverage for Scranton--Wilkes-Barre (Metro), Pennsylvania, spanning Scranton-, Wilkes, and Barre. Covers a mid-size metropolitan dining market, filtered by the Restaurants category group. Includes verified business profiles, review analytics, competitive rankings, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Scranton--Wilkes-Barre (Metro), Pennsylvania, US",
+  "export_job_id": "86770828-01c1-4a39-b974-af295f2a9201",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 556476,
+  "location_name": "Scranton--Wilkes-Barre, PA",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-scranton-wilkes-barre-metro-pennsylvania-us-sample-556476",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/556476/beamstation_556476_restaurants-us-scrantonwilkesbarrepa_SAMPLE_DIST.csv",
+  "sample_pct": 9.96,
+  "sample_records": 163,
+  "sample_sha256": "7ddb8dfee2d5fb8c6bd3262e05f08bf7034b22f48e3e4c4d151394c5b7288463",
+  "sample_size_bytes": 565110,
+  "total_records": 1637,
+  "updated_at": "2026-04-14T17:15:25.410611+00:00"
+}
