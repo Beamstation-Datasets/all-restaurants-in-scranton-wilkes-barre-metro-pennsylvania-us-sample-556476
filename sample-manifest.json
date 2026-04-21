@@ -1,12 +1,12 @@
 {
-  "export_job_id": "86770828-01c1-4a39-b974-af295f2a9201",
+  "export_job_id": "59b60d80-eb7f-498d-b5ea-c97a4fb804c1",
   "id_short": 556476,
-  "published_at": "2026-04-17T19:39:06Z",
+  "published_at": "2026-04-21T19:33:01Z",
   "repo_name": "all-restaurants-in-scranton-wilkes-barre-metro-pennsylvania-us-sample-556476",
   "sample_asset_name": "beamstation_556476_restaurants-us-scrantonwilkesbarrepa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/556476/beamstation_556476_restaurants-us-scrantonwilkesbarrepa_SAMPLE_DIST.csv",
-  "sample_records": 163,
-  "sample_sha256": "7ddb8dfee2d5fb8c6bd3262e05f08bf7034b22f48e3e4c4d151394c5b7288463",
-  "sample_size_bytes": 565110,
-  "total_records": 1637
+  "sample_records": 135,
+  "sample_sha256": "2992433bca45f35c8af86afd8b4dddc9a4eeb6c93c290e8cabe54517df11b7bc",
+  "sample_size_bytes": 470501,
+  "total_records": 1350
 }
